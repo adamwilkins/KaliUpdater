@@ -12,3 +12,8 @@ So far configures the following:
 - and configures the vmshare
 
 with more to come.
+
+USAGE:
+```
+sudo ./install.sh
+```
